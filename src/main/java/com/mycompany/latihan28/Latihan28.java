@@ -8,6 +8,11 @@ import java.util.Scanner;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk mengganti kata yang perlu diganti
  */
 public class Latihan28 {
      public static void main(String[] args) {
