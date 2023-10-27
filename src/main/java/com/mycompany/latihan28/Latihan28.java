@@ -18,7 +18,7 @@ public class Latihan28 {
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("===Program Ganti Kata===");
+        System.out.println("===Program Mengganti Kata===");
 
         System.out.print("Masukkan kalimat: ");
         String kalimat = scanner.nextLine();
